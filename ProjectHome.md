@@ -1,0 +1,40 @@
+SCRUM
+
+SCRUM PROJECT
+
+&lt;BR&gt;
+
+
+SCRUM OWNER
+
+&lt;BR&gt;
+
+
+SCRUM MASTER
+
+&lt;BR&gt;
+
+
+SCRUM TEAM
+
+&lt;BR&gt;
+
+
+
+SCRUM BACKLOG
+
+&lt;BR&gt;
+
+
+SPRINT BACKLOG
+
+&lt;BR&gt;
+
+
+
+SCRUM PLANNING MEETING
+
+&lt;BR&gt;
+
+
+SCRUM SPRINT REVIEW MEETING
